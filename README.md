@@ -2,5 +2,5 @@
 
 Personal portofolio repo to display achievements, work experience, extracurriculars, etc...
 
-Templates inspired from Ryan Fitzgerald
+Template inspired from Ryan Fitzgerald
  
